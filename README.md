@@ -17,13 +17,15 @@
 - 🌱 I’m currently learning machine learning and data science through various courses and hands-on projects.
 - 💬 Ask me about anything you think I can help you out with 😄.
 - 📫 How to reach me: sonalikaroy13@gmail.com
-- ⚡ Beside's developing stuff, I enjoy listening music 🎧 and spending time with nature 🏝️🗻.
+- ⚡ Beside's developing stuff, I enjoy listening music 🎧 and spending time with nature 🏝️🗻. /
+<br />
 
 **Talking about Personal Stuffs/Achievements:**
 
 - 🥇 I am a web developer intern at Legal Aid Center, Lucknow University 👨🏽‍💻 
 - 🎓 Completed Data Science Specialisation on Coursera by IBM 👨🏽‍💼 
-- 👨‍💻 Done machine training by Analytics Vidya and scored 100% in final assessment🥇.
+- 👨‍💻 Done machine training by Analytics Vidhya and scored 100% in final assessment🥇.
+<br />
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -40,7 +42,7 @@
 
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&show_icons=true&hide_border=true)
 
-⭐️ Recent projects in which I have contributed :rocket:
+<!-- ⭐️ Recent projects in which I have contributed :rocket:
 
 
 <a href="https://github.com/RocketChat/Rocket.Chat.ReactNative">
@@ -59,3 +61,4 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GOVINDDIXIT&repo=Speaking-Silence" />
 </a>
 
+-->
