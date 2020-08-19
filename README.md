@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Sonalika Roy (https://sonalikaroy13@bitbucket.io)
 
-
-<br>
 <a href="https://www.linkedin.com/in/sonalikaroy">
   <img align="left" alt="Sonalika's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -15,22 +13,15 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Hi, I'm Sonalika Roy, a Front end developer, machine learning and data science beginner 🚀 from India, Currently working as a web developer Intern 🙍🏽‍♂️ at Legal Aid Center, Lucknow University 👯.
+- 🌱 I’m currently learning machine learning and data science through various courses and hands-on projects.
+- 💬 Ask me about anything you think I can help you out with 😄.
+- 📫 How to reach me: sonalikaroy13@gmail.com
+- ⚡ Beside's developing stuff, I enjoy listening music 🎧 and spending time with nature 🏝️🗻.
 
-Hi, I'm Govind Dixit, a Full Stack developer 🚀 from India, Currently working as a Software Engineer Intern 🙍🏽‍♂️ [@Headout](https://www.headout.com/) and GSoC'20 student under [@Rocket.Chat](https://rocket.chat/)
+<!--**Talking about Personal Stuffs/Achievements:
 
-Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
-
-**Talking about Personal Stuffs/Achievements:**
-
-- 🥇 I am a two time Google Summer of Code Student (19 & 20)  👨🏽‍💻 [@Rocket.Chat](https://rocket.chat/)
+<!-- - 🥇 I am a two time Google Summer of Code Student (19 & 20)  👨🏽‍💻 [@Rocket.Chat](https://rocket.chat/)
 - 🎓 Google Code In Mentor 👨🏽‍💼[@Tensorflow](https://www.tensorflow.org/) [@Mifos Initiative](https://mifos.org/) 
 - 👨‍💻 Software Developer Intern [@AntraxLabs](https://www.antraxlabs.com/)
 - 🌱 Former Lead at Developer Student Club [@DSCIIITL](http://dsciiitl.com/)
@@ -39,8 +30,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 - 🥇 Facebook Deep learning Scholarship Winner
 - :triangular_flag_on_post: Honorable mention at [ICPC'18](https://drive.google.com/file/d/1pNBPt9LTUPkG4xfAa52-Mxe06GZjCeuW/view)
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: govinddixit93@gmail.com
-
+-
 &nbsp;
 
 **Languages and Tools:**
@@ -50,7 +40,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
