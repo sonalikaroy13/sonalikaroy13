@@ -17,12 +17,7 @@
 - 🌱 I’m currently learning machine learning and data science through various courses and hands-on projects.
 - 💬 Ask me about anything you think I can help you out with 😄.
 - 📫 How to reach me: sonalikaroy13@gmail.com
-- ⚡ Beside's developing stuff, I enjoy listening music 🎧 and spending time with nature 🏝️🗻. /
-<br />
-
-**Talking about Personal Stuffs/Achievements:**
-
-- 🥇 I am a web developer intern at Legal Aid Center, Lucknow University 👨🏽‍💻 
+- ⚡ Beside's developing stuff, I enjoy listening music 🎧 and spending time with nature 🏝️🗻. 
 - 🎓 Completed Data Science Specialisation on Coursera by IBM 👨🏽‍💼 
 - 👨‍💻 Done machine training by Analytics Vidhya and scored 100% in final assessment🥇.
 <br />
