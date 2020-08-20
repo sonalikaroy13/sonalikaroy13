@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Sonalika Roy (https://sonalikaroy13@bitbucket.io)
+### Hello there 👋, I'm Sonalika Roy (https://sonalikaroy13.bitbucket.io/)
 
 <a href="https://www.linkedin.com/in/sonalikaroy">
   <img align="left" alt="Sonalika's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -8,6 +8,9 @@
 </a>
 <a href="https://www.facebook.com/sonalika.roy.9803">
   <img align="left" alt="Sonalika's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://t.me/abc_1300">
+  <img align="left" alt="Sonalika's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 <br />
