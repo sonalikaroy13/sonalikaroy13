@@ -20,7 +20,6 @@
 - 💬 Ask me about anything you think I can help you out with 😄.
 - 📫 How to reach me: sonalikaroy13@gmail.com
 - ⚡ Beside's developing stuff, I enjoy listening music 🎧 and spending time with nature 🏝️🗻. 
-<br />
 
 ### **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
