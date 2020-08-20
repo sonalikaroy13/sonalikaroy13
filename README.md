@@ -35,23 +35,3 @@
 
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&show_icons=true&hide_border=true)
 
-<!-- ⭐️ Recent projects in which I have contributed :rocket:
-
-
-<a href="https://github.com/RocketChat/Rocket.Chat.ReactNative">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RocketChat&repo=Rocket.Chat.ReactNative" />
-</a>
-
-<a href="https://github.com/RocketChat/Rocket.Chat.Android">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=RocketChat&repo=Rocket.Chat.Android" />
-</a>
-
-<a href="https://github.com/GOVINDDIXIT/chronos-localiser">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GOVINDDIXIT&repo=chronos-localiser" />
-</a>
-
-<a href="https://github.com/GOVINDDIXIT/Speaking-Silence">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GOVINDDIXIT&repo=Speaking-Silence" />
-</a>
-
---
