@@ -13,7 +13,7 @@
 <br />
 <br />
 
-- 🔭 I'm a Front end developer, machine learning and data science beginner 🚀 from India, Currently working as a web developer Intern 🙍🏽 at Legal Aid Center, Lucknow University 👯.
+- 🔭 I'm a Front end developer, machine learning and data science beginner 🚀 from India, currently working as a web developer Intern 🙍🏽 at Legal Aid Center, Lucknow University 👯.
 - 🌱 I’m currently learning machine learning and data science through various courses and hands-on projects.
 - 🎓 Completed Data Science Specialisation on Coursera by IBM 👨🏽💼 
 - 👨💻 Done machine training by Analytics Vidhya and scored 100% in final assessment🥇.
@@ -34,4 +34,3 @@
 <br />
 
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&show_icons=true&hide_border=true)
-
