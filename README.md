@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sonalika Roy (https://sonalikaroy13@bitbucket.io)
+### Hello there 👋, I'm Sonalika Roy (https://sonalikaroy13@bitbucket.io)
 
 <a href="https://www.linkedin.com/in/sonalikaroy">
   <img align="left" alt="Sonalika's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -34,3 +34,5 @@
 <br />
 
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&show_icons=true&hide_border=true)
+
+Thank you for checking out my profile :)
