@@ -1,5 +1,5 @@
 ### Hello there 👋, I'm Sonalika Roy! (https://sonalikaroy13.bitbucket.io/)
-<br />
+
 <a href="https://www.linkedin.com/in/sonalikaroy">
   <img align="left" alt="Sonalika's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
