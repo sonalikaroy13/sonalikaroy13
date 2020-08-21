@@ -1,5 +1,5 @@
 ### Hello there 👋, I'm Sonalika Roy! (https://sonalikaroy13.bitbucket.io/)
-
+<br />
 <a href="https://www.linkedin.com/in/sonalikaroy">
   <img align="left" alt="Sonalika's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -25,7 +25,6 @@
 - ⚡ Beside's developing stuff ⏳, I enjoy listening music 🎧 and spending time with nature 🏝️🗻. 
 
 <br />
-<br />
 
 ### 📌  Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -42,4 +41,5 @@
 <br />
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&hide=stars&show_icons=true)
 <br />
-Thank you for visiing my profile :)
+
+Thank you for visiting my profile :)
