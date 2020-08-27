@@ -6,9 +6,6 @@
 <a href="https://twitter.com/sonalikaroy13">
   <img align="left" alt="Sonalika Roy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.facebook.com/sonalika.roy.9803">
-  <img align="left" alt="Sonalika's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://t.me/abc_1300">
   <img align="left" alt="Sonalika's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>  
