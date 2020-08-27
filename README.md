@@ -19,7 +19,7 @@
 - 💻 Done machine training by Analytics Vidhya and scored 100% in final assessment🥇.
 - 💬 Ask me about anything you think 💡 I can help you out with 😄.
 - 📫 How to reach me: sonalikaroy13@gmail.com
-- ⚡ Beside's developing stuff ⏳, I enjoy listening music 🎧 and spending time with nature 🏝️🗻. 
+- ⚡ Beside's developing stuff ⏳, I enjoy listening music 🎧 and spending time with nature 🏝️. 
 
 
 ### 📌  Languages and Tools: 
@@ -30,7 +30,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/.png"></code>
 <br />
 <br />
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&hide=stars&show_icons=true)
