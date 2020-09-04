@@ -36,4 +36,4 @@
 <br />
 Thank you for visiting my profile :)
 
-![](https://komarev.com/ghpvc/?username=sonalikaroy13&color=green&style=flat)
+![](https://komarev.com/ghpvc/?username=sonalikaroy13&color=blue&style=flat)
