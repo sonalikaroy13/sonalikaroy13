@@ -35,5 +35,3 @@
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&hide=stars&show_icons=true)
 <br />
 Thank you for visiting my profile :)
-
-![](https://komarev.com/ghpvc/?username=sonalikaroy13&color=blue&style=flat)
