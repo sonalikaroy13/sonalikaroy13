@@ -14,7 +14,7 @@
 <br />
 
 - 🔭 I'm a Front end developer 📲, machine learning 💻 and data science 📈 enthusiast from India 🚀, currently working as a web developer Intern 🙋🏻‍♀️ at Legal Aid Center, Lucknow University 💼.
-- 🌱 Currently learning machine learning and data science through various courses and projects. Trying hands on data structures and algorithms.
+- 🌱 Currently learning data science and machine learning through various courses and projects. Trying hands on data structures and algorithms (competitive programming) as well.
 - 🎓 Completed Data Science Specialisation on Coursera by IBM 👩‍🎓💼.
 - 💻 Done Machine Learning Training by Analytics Vidhya and scored 100% in final assessment🥇.
 - 💬 Ask me about anything you think 💡 I can help you out with 😄.
