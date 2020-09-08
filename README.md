@@ -18,14 +18,10 @@
 - 🎓 Completed Data Science Specialisation on Coursera by IBM 👩‍🎓💼.
 - 💻 Done Machine Learning Training by Analytics Vidhya and scored 100% in final assessment🥇.
 - 💬 Ask me about anything you think 💡 I can help you out with 😄.
-- 📫 How to reach me: sonalikaroy13@gmail.com <a href="https://www.linkedin.com/in/sonalikaroy">
-  <img align="left" alt="Sonalika's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/sonalikaroy13">
-  <img align="left" alt="Sonalika Roy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+- 📫 How to reach me: sonalikaroy13@gmail.com <a href="https://www.linkedin.com/in/sonalikaroy">  <img alt="Sonalika's LinkedIN" width="16px"                                                                                                        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/abc_1300">
-  <img align="left" alt="Sonalika's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img alt="Sonalika's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 - ⚡ Beside's developing stuff ⏳, I enjoy listening music 🎧 and spending time with nature 🏝️. 
 
