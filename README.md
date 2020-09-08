@@ -5,10 +5,18 @@
 - 🎓 Completed Data Science Specialisation on Coursera by IBM 👩‍🎓💼.
 - 💻 Done Machine Learning Training by Analytics Vidhya and scored 100% in final assessment🥇.
 - 💬 Ask me about anything you think 💡 I can help you out with 😄.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/sonalikaroy">  <img alt="Sonalika's LinkedIN" width="16px"                                                                                                        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="https://t.me/abc_1300"> <img alt="Sonalika's Telegram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sonalikaroy/">
+        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Sonalika Roy">
+    </a> 
+    <a href="https://github.com/sonalikaroy13">
+        <img src="https://img.shields.io/github/followers/sonalikaroy13.svg?label=GitHub&style=social" alt="GitHub Sonalika Roy">
+    </a> 
+
+<!--
+<a href="https://www.linkedin.com/in/sonalikaroy">  <img alt="Sonalika's LinkedIN" width="16px"                                                                                                        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="https://t.me/abc_1300"> <img alt="Sonalika's Telegram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 - ⚡ Beside's developing stuff ⏳, I enjoy listening music 🎧 and spending time with nature 🏝️. 
 
-
+-->
 ### 📌  Languages and Tools: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
