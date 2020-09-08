@@ -33,7 +33,7 @@
 <br />
 <br />
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&hide=stars&show_icons=true)
-![Sonalika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalikaroy13&ccard_width=300&card_height=150)
+![Sonalika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalikaroy13&card_width=300&card_height=150)
 
 <br />
 Thank you for visiting my profile :)
