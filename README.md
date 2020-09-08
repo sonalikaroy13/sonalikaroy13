@@ -7,7 +7,10 @@
 - 💬 Ask me about anything you think 💡 I can help you out with 😄.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sonalikaroy/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Sonalika Roy">
-    </a> 
+    </a>
+    <a href="https://t.me/abc_1300">
+        <img src="https://img.shields.io/badge/telegram--_.svg?style=social&logo=telegram" alt="Telegram Sonalika Roy">
+    </a>
     <a href="https://github.com/sonalikaroy13">
         <img src="https://img.shields.io/github/followers/sonalikaroy13.svg?label=GitHub&style=social" alt="GitHub Sonalika Roy">
     </a> 
