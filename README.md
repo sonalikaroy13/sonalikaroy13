@@ -2,9 +2,8 @@
 
 - 🔭 I'm a Front end developer 📲, machine learning 💻 and data science 📈 enthusiast from India 🚀, currently working as a web developer Intern 🙋🏻‍♀️ at Legal Aid Center, Lucknow University 💼.
 - 🌱 Currently learning data science and machine learning through various courses and projects. Trying hands on data structures and algorithms (competitive programming) as well.
-- 🎓 Completed Data Science Specialisation on Coursera by IBM 👩‍🎓💼.
-- 💻 Done Machine Learning Training by Analytics Vidhya and scored 100% in final assessment🥇.
-- 💬 Ask me about anything you think 💡 I can help you out with 😄.
+- 🎓 Completed Data Science Specialisation on Coursera provided by IBM 🎓💼, done Machine Learning Training by Analytics Vidhya and scored 100% in final assessment🥇.
+- 💬 Ask me about anything you think 💡, I can help you out with 😄.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sonalikaroy/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Sonalika Roy">
     </a>
