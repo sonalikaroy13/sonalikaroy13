@@ -32,8 +32,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <br />
 <br />
-![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&hide=stars&show_icons=true&card_width=240)
-![Sonalika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalikaroy13&layout=compact&card_width=300&card_height=150)
+![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&hide=stars&show_icons=true)
+![Sonalika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalikaroy13)
 
 <br />
 Thank you for visiting my profile :)
