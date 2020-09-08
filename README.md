@@ -8,7 +8,7 @@
 - 🎓 Completed Data Science Specialisation on Coursera by IBM 👩‍🎓💼.
 - 💻 Done Machine Learning Training by Analytics Vidhya and scored 100% in final assessment🥇.
 - 💬 Ask me about anything you think 💡 I can help you out with 😄.
-- 📫 How to reach me: sonalikaroy13@gmail.com <a href="https://www.linkedin.com/in/sonalikaroy">  <img alt="Sonalika's LinkedIN" width="16px"                                                                                                        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="https://t.me/abc_1300"> <img alt="Sonalika's Telegram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sonalikaroy">  <img alt="Sonalika's LinkedIN" width="16px"                                                                                                        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="https://t.me/abc_1300"> <img alt="Sonalika's Telegram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 - ⚡ Beside's developing stuff ⏳, I enjoy listening music 🎧 and spending time with nature 🏝️. 
 
 
@@ -24,8 +24,6 @@
 <br />
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&hide=stars&show_icons=true)
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalikaroy13&layout=compact&card_width=300&card_height=150)
-
-
 
 <br />
 Thank you for visiting my profile :)
