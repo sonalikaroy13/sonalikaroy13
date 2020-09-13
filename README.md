@@ -10,6 +10,9 @@
     <a href="https://t.me/abc_1300">
         <img src="https://img.shields.io/badge/telegram--_.svg?style=social&logo=telegram" alt="Telegram Sonalika Roy">
     </a>
+    <a href="mailto:sonalikaroy13@gmail.com">
+        <img src="https://img.shields.io/badge/gmail--_.svg?style=social&logo=gmail" alt="Gmail Sonalika Roy">
+    </a>
     <a href="https://github.com/sonalikaroy13">
         <img src="https://img.shields.io/github/followers/sonalikaroy13.svg?label=GitHub&style=social" alt="GitHub Sonalika Roy">
     </a> 
