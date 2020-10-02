@@ -17,11 +17,8 @@
         <img src="https://img.shields.io/github/followers/sonalikaroy13.svg?label=GitHub&style=social" alt="GitHub Sonalika Roy">
     </a> 
 
-<!--
-<a href="https://www.linkedin.com/in/sonalikaroy">  <img alt="Sonalika's LinkedIN" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="https://t.me/abc_1300"> <img alt="Sonalika's Telegram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
-- ⚡ Beside's developing stuff ⏳, I enjoy listening music 🎧 and spending time with nature 🏝️. 
 
--->
+
 ### 📌  Languages and Tools: <p align="center">
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png"/>
@@ -67,7 +64,7 @@
 <img height="42px" width="42px" src="https://img.icons8.com/color/100/000000/sublime-text.png"/>
 
 </p>
-</p>
+
 
 
 
