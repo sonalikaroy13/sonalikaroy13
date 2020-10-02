@@ -18,7 +18,7 @@
     </a> 
 
 <!--
-<a href="https://www.linkedin.com/in/sonalikaroy">  <img alt="Sonalika's LinkedIN" width="16px"                                                                                                        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="https://t.me/abc_1300"> <img alt="Sonalika's Telegram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+<a href="https://www.linkedin.com/in/sonalikaroy">  <img alt="Sonalika's LinkedIN" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="https://t.me/abc_1300"> <img alt="Sonalika's Telegram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 - ⚡ Beside's developing stuff ⏳, I enjoy listening music 🎧 and spending time with nature 🏝️. 
 
 -->
