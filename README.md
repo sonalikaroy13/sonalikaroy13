@@ -67,7 +67,7 @@
 <img height="42px" width="42px" src="https://img.icons8.com/color/100/000000/sublime-text.png"/>
 
 </p>
-</p>
+
 
 <br />
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&hide=stars&show_icons=true&card_height=150)
