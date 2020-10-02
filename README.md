@@ -66,12 +66,12 @@
 </p>
 
 </b>
-<br />  
+
 
 
 ### 📌  Check out my work: https://sonalikaroy13.bitbucket.io/
 
-<br />
+
 <br />  
 
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&hide=stars&show_icons=true&count_private=true&include_all_commits=true)
