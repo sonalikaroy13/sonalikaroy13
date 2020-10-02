@@ -15,7 +15,7 @@
     </a>
     <a href="https://github.com/sonalikaroy13">
         <img src="https://img.shields.io/github/followers/sonalikaroy13.svg?label=GitHub&style=social" alt="GitHub Sonalika Roy">
-    </a> </b>
+    </a> 
 
 
 
@@ -65,10 +65,11 @@
 
 </p>
 
-
+</b>
 
 
 <br />
+
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&hide=stars&show_icons=true&card_height=150)
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalikaroy13&layout=compact&card_width=300&card_height=150)
 
