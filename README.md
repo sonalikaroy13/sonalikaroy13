@@ -35,7 +35,7 @@
 
 <img height="41px" width="41px" src="https://img.icons8.com/color/100/000000/markdown.png"/>
 
-<img height="37px" width="37px" src="https://img.icons8.com/material-rounded/100/000000/django.png"/>
+
 
 <img height="33px" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png"/>
 
@@ -47,11 +47,11 @@
 
 <img height="36px" width="36px" src="https://img.icons8.com/color/100/000000/heroku.png"/>
 
-<img height="37px" width="37px" src="https://img.icons8.com/color/100/000000/postgreesql.png"/>
+
 
 <img height="45px" width="45px" src="https://img.icons8.com/ios/100/000000/mysql-logo.png"/>
 
-<img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/mongodb.png"/>
+
 
 <img height="33px" width="33px" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png">
 
