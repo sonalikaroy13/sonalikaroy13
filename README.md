@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Sonalika Roy! (https://sonalikaroy13.bitbucket.io/)
+### Hello there 👋, I'm Sonalika Roy!
 
 - 🔭 I'm a Front end developer 📲, machine learning 💻 and data science 📈 enthusiast from India 🚀, working as a web developer Intern 🙋🏻‍♀️ at Legal Aid Center, Lucknow University 💼.
 - 🌱 Currently learning data science and machine learning through various courses and projects. Trying hands on data structures and algorithms (competitive programming) as well.
@@ -66,7 +66,7 @@
 </p>
 
 </b>
-
+### 📌  Check out my work: https://sonalikaroy13.bitbucket.io/
 
 <br />
 
