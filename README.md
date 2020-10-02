@@ -25,7 +25,7 @@
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/python.png"/>
 
-<img height="48px" width="48px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png"/>
+<img height="45px" width="45px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png"/>
 
 <img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/html-5.png"/>
 
