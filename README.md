@@ -45,7 +45,7 @@
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bitbucket.png"/>
 
-<img height="36px" width="36px" src="https://img.icons8.com/color/100/000000/heroku.png"/>
+
 
 
 
@@ -53,7 +53,7 @@
 
 
 
-<img height="33px" width="33px" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png">
+
 
 <img height="37px" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
 
