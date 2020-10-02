@@ -22,7 +22,51 @@
 - ⚡ Beside's developing stuff ⏳, I enjoy listening music 🎧 and spending time with nature 🏝️. 
 
 -->
-### 📌  Languages and Tools: 
+### 📌  Languages and Tools: <p align="center">
+
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png"/>
+
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/python.png"/>
+
+<img height="48px" width="48px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png"/>
+
+<img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/html-5.png"/>
+
+<img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/css3.png"/>
+
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bootstrap.png"/>
+
+<img height="41px" width="41px" src="https://img.icons8.com/color/100/000000/markdown.png"/>
+
+<img height="37px" width="37px" src="https://img.icons8.com/material-rounded/100/000000/django.png"/>
+
+<img height="33px" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png"/>
+
+<img height="37px" width="37px" src="https://img.icons8.com/fluent/100/000000/windows-10.png"/>
+
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/git.png"/>
+
+<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bitbucket.png"/>
+
+<img height="36px" width="36px" src="https://img.icons8.com/color/100/000000/heroku.png"/>
+
+<img height="37px" width="37px" src="https://img.icons8.com/color/100/000000/postgreesql.png"/>
+
+<img height="45px" width="45px" src="https://img.icons8.com/ios/100/000000/mysql-logo.png"/>
+
+<img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/mongodb.png"/>
+
+<img height="33px" width="33px" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png">
+
+<img height="37px" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+
+<img height="36px" width="36px" src="https://colab.research.google.com/img/colab_favicon_256px.png">
+
+<img height="38px" width="38px" src="https://img.icons8.com/nolan/100/visual-studio-code-2019.png"/>
+
+<img height="42px" width="42px" src="https://img.icons8.com/color/100/000000/sublime-text.png"/>
+
+</p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
