@@ -39,7 +39,7 @@
 
 <img height="33px" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png"/>
 
-<img height="37px" width="37px" src="https://img.icons8.com/fluent/100/000000/windows-10.png"/>
+
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/git.png"/>
 
