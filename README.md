@@ -82,6 +82,6 @@
 
 <br />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sonalikaroy13&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=sonalikaroy13&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 <br />
 Thank you for visiting my profile :)
