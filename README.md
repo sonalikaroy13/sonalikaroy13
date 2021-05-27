@@ -20,7 +20,7 @@
 
 
 
-### 📌  Languages and Tools: <p align="center">
+### 📌  Languages and Frameworks: <p align="center">
 
 <img height="40px" width="40px"  src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
         
@@ -40,23 +40,18 @@
         
 <img height="40px" width="40px" src="https://img.icons8.com/color/32/000000/sass.png"/>
 
+<img height="45px" width="45px" src="https://img.icons8.com/ios/100/000000/mysql-logo.png"/>
+
 <img height="33px" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png"/>
 
 <img height="38px" width="38px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>  
 
+
+### 📌  Tools: <p align="center">
+
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/git.png"/>
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bitbucket.png"/>
-
-
-
-
-
-<img height="45px" width="45px" src="https://img.icons8.com/ios/100/000000/mysql-logo.png"/>
-
-
-
-
 
 <img height="37px" width="37px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
 
