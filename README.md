@@ -22,10 +22,12 @@
 
 ### 📌  Languages and Tools: <p align="center">
 
+<img height="40px" width="40px"  src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
+        
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png"/>
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/python.png"/>
-
+        
 <img height="45px" width="45px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png"/>
 
 <img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/html-5.png"/>
@@ -35,14 +37,12 @@
 <img height="39px" width="37px" src="https://img.icons8.com/color/96/000000/javascript.png"/>
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bootstrap.png"/>
-
-
-
-
+        
+<img height="40px" width="40px" src="https://img.icons8.com/color/32/000000/sass.png"/>
 
 <img height="33px" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png"/>
 
-
+<a href="https://opencv.org/" target="_blank"> <img height="38px" width="38px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/git.png"/>
 
