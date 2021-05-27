@@ -81,7 +81,4 @@
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalikaroy13&layout=compact&card_width=300&card_height=150&theme=tokyonight)
 
 <br />
-
-<p> <img src="https://komarev.com/ghpvc/?username=sonalikaroy13&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
-<br />
 Thank you for visiting my profile :)
