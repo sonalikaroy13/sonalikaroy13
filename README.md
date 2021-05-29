@@ -1,7 +1,7 @@
 ### Hello there 👋, I'm Sonalika Roy!
 
 - 🔭 I'm a Front end web developer 📲, machine learning and data science 📈 enthusiast from India 🚀.
-- 💼 Worked as a web developer Intern at Legal Aid Center, Lucknow University. Sample: <ahttps://lulac-off.netlify.app/">https://lulac-off.netlify.app/</a>
+- 💼 Worked as a web developer Intern at Legal Aid Center, Lucknow University. Sample: <a href="https://lulac-off.netlify.app/">https://lulac-off.netlify.app/</a>
 - 🌱 Currently learning data science and machine learning through various courses and projects. Trying hands on data structures and algorithms (competitive programming) as well.
 - 🎓 Completed Data Science Specialisation on Coursera by IBM, done Machine Learning Training by Analytics Vidhya🥇.
 - 💬 Ask me about anything you think 💡, I can help you out with 😄.
