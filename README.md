@@ -36,7 +36,7 @@
 
 <img height="39px" width="37px" src="https://img.icons8.com/color/96/000000/javascript.png"/>
         
-<img height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg"/> 
+<img height="33px" width="5px" src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg"/> 
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bootstrap.png"/>
         
