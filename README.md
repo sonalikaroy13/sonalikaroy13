@@ -35,6 +35,8 @@
 <img height="38px" width="38px" src="https://img.icons8.com/color/100/000000/css3.png"/>
 
 <img height="39px" width="37px" src="https://img.icons8.com/color/96/000000/javascript.png"/>
+        
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg" width="90" height="40"  /> 
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bootstrap.png"/>
         
