@@ -74,7 +74,7 @@
 
 <br />  
 
-![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
+![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&theme=tokyonight&hide=stars&show_icons=true&count_private=true&include_all_commits=true)
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalikaroy13&layout=compact&card_width=300&card_height=150&theme=tokyonight)
 
 <br />
