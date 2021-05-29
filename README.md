@@ -1,9 +1,9 @@
 ### Hello there 👋, I'm Sonalika Roy!
 
-- 🔭 I'm a Front end web developer 📲, machine learning 💻 and data science 📈 enthusiast from India 🚀.
-- 💼 Worked as a web developer Intern 🙋🏻‍♀️ at Legal Aid Center, Lucknow University 💼.
+- 🔭 I'm a Front end web developer 📲, machine learning and data science 📈 enthusiast from India 🚀.
+- 💼 Worked as a web developer Intern at Legal Aid Center, Lucknow University.
 - 🌱 Currently learning data science and machine learning through various courses and projects. Trying hands on data structures and algorithms (competitive programming) as well.
-- 🎓 Completed Data Science Specialisation on Coursera by IBM 🎓💼, done Machine Learning Training by Analytics Vidhya🥇.
+- 🎓 Completed Data Science Specialisation on Coursera by IBM, done Machine Learning Training by Analytics Vidhya🥇.
 - 💬 Ask me about anything you think 💡, I can help you out with 😄.
 - 📫 <b>How to reach me: <a href="https://www.linkedin.com/in/sonalikaroy/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Sonalika Roy">
@@ -36,7 +36,7 @@
 
 <img height="39px" width="37px" src="https://img.icons8.com/color/96/000000/javascript.png"/>
         
-<img height="33px" width="5px" src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg"/> 
+<img height="33px" width="50px" src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg"/> 
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/bootstrap.png"/>
         
