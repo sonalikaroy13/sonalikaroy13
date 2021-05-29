@@ -5,7 +5,7 @@
 - 🌱 Currently learning data science and machine learning through various courses and projects. Trying hands on data structures and algorithms (competitive programming) as well.
 - 🎓 Completed Data Science Specialisation on Coursera by IBM, done Machine Learning Training by Analytics Vidhya🥇.
 - 💬 Ask me about anything you think 💡, I can help you out with 😄.
-- 📫 <b>How to reach me: <a href="https://www.linkedin.com/in/sonalikaroy/">
+- 📫 <b> me: <a href="https://www.linkedin.com/in/sonalikaroy/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Sonalika Roy">
     </a>
     <a href="https://t.me/abc_1300">
