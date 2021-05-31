@@ -80,6 +80,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalikaroy13)](https://github.com/sonalikaroy13/github-readme-streak-stats) 
 
 ![](https://github-profile-trophy.vercel.app/?username=sonalikaroy13)
+</p>
 
 <br />
 Thank you for visiting my profile :)
