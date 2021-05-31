@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/github/followers/sonalikaroy13.svg?label=GitHub&style=social" alt="GitHub Sonalika Roy">
     </a> 
 
-# 📌  Check out my : https://sonalikaroy13.bitbucket.io/
+##### 📌  Check out my : https://sonalikaroy13.bitbucket.io/
 
 
 ### 📌  Languages and Frameworks: <p align="center">
@@ -67,11 +67,6 @@
 </p>
 
 </b>
-
-
-
-
-
 <br />  
 
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&theme=tokyonight&hide=stars&show_icons=true&count_private=true&include_all_commits=true)
