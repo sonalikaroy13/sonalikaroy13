@@ -18,6 +18,7 @@
         <img src="https://img.shields.io/github/followers/sonalikaroy13.svg?label=GitHub&style=social" alt="GitHub Sonalika Roy">
     </a> 
 
+# 📌  Check out my : https://sonalikaroy13.bitbucket.io/
 
 
 ### 📌  Languages and Frameworks: <p align="center">
@@ -69,7 +70,6 @@
 
 
 
-### 📌  Check out my work: https://sonalikaroy13.bitbucket.io/
 
 
 <br />  
@@ -79,7 +79,7 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalikaroy13)](https://github.com/sonalikaroy13/github-readme-streak-stats) -->
 
-![](https://github-profile-trophy.vercel.app/?username=sonalikaroy13)
+![](https://github-profile-trophy.vercel.app/?username=sonalikaroy13&hide=stars)
 
 <br />
 Thank you for visiting my profile :)
