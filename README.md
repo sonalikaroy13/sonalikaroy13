@@ -17,8 +17,7 @@
     <a href="https://github.com/sonalikaroy13">
         <img src="https://img.shields.io/github/followers/sonalikaroy13.svg?label=GitHub&style=social" alt="GitHub Sonalika Roy">
     </a> 
-
-##### 📌  Check out my : https://sonalikaroy13.bitbucket.io/
+- 💼 Check out my : https://sonalikaroy13.bitbucket.io/
 
 
 ### 📌  Languages and Frameworks: <p align="center">
