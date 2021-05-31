@@ -72,7 +72,7 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalikaroy13)](https://github.com/sonalikaroy13/github-readme-streak-stats) -->
 
-![](https://github-profile-trophy.vercel.app/?username=sonalikaroy13&hide=stars)
+![](https://github-profile-trophy.vercel.app/?username=sonalikaroy13)
 
 <br />
 Thank you for visiting my profile :)
