@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Sonalika Roy!
+## Hello there 👋, I'm Sonalika Roy!
 
 - 🔭 I'm a Front end web developer 📲, machine learning and data science 📈 enthusiast from India 🚀.
 - 💼 Worked as a web developer Intern at Legal Aid Center, Lucknow University. Sample: <a href="https://lulac-off.netlify.app/">https://lulac-off.netlify.app/</a>
@@ -67,12 +67,15 @@
 </b>
 <br />  
 
+
+### 📌  Profile Statistics: <p align="center">
+        
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&theme=tokyonight&hide=stars&show_icons=true&count_private=true&include_all_commits=true)
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalikaroy13&layout=compact&card_width=250&card_height=180&theme=tokyonight)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalikaroy13)](https://github.com/sonalikaroy13/github-readme-streak-stats) -->
 
 ![](https://github-profile-trophy.vercel.app/?username=sonalikaroy13)
-
+</p>
 <br />
 Thank you for visiting my profile :)
