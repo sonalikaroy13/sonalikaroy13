@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/github/followers/sonalikaroy13.svg?label=GitHub&style=social" alt="GitHub Sonalika Roy">
     </a> 
 
-### 📌  Languages and Frameworks: <p align="center">
+### 📌 Languages and Frameworks: <p align="center">
 
 <img height="40px" width="40px"  src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
         
@@ -47,8 +47,7 @@
 
 <img height="38px" width="38px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>  
 
-
-### 📌  Tools: <p align="center">
+### 📌 Tools: <p align="center">
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/git.png"/>
 
@@ -65,10 +64,8 @@
 </p>
 
 </b>
-<br />  
 
-
-### 📌  Profile Statistics: <p align="center">
+### 📌 Profile Statistics: <p align="center">
         
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=sonalikaroy13&theme=tokyonight&hide=stars&show_icons=true&count_private=true&include_all_commits=true)
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalikaroy13&layout=compact&card_width=250&card_height=180&theme=tokyonight)
