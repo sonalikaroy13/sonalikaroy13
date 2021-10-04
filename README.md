@@ -2,10 +2,10 @@
 
 - 🔭 I'm a Front end web developer 📲, machine learning and data science 📈 enthusiast from India 🚀.
 - 💼 Worked as a web developer Intern at Legal Aid Center, Lucknow University. Sample: <a href="https://lulac-off.netlify.app/">https://lulac-off.netlify.app/</a>
-- 🌱 Currently learning data science and machine learning through various courses and projects. Trying hands on data structures and algorithms (competitive programming) as well.
-- 🎓 Completed Data Science Specialisation on Coursera by IBM, done Machine Learning Training by Analytics Vidhya🥇.
+- 🌱 Learning data science and machine learning through various courses and projects. Trying hands on data structures and algorithms (competitive programming) as well.
+- 🎓 Completed Data Science Specialisation on Coursera by IBM and Machine Learning Training by Analytics Vidhya🥇.
 - 💼 Check out my portfolio : https://sonalikaroy13.bitbucket.io/
-- 💬 Ask me about anything, you think 💡 I can help you out with 😄.
+- 💬 Ask me about anything, you think I can help you out with 😄.
 - 📫 <b> Connect with me: <a href="https://www.linkedin.com/in/sonalikaroy/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Sonalika Roy">
     </a>
