@@ -6,7 +6,7 @@
 - 🎓 Completed Data Science Specialisation on Coursera by IBM and Machine Learning Training by Analytics Vidhya🥇.
 
 - 💬 Ask me about anything, you think I can help you out with 😄.
-- 📫 <b> Connect with me: <a href="https://www.linkedin.com/in/sonalikaroy/">
+- 📫 <b> Connect with me: <a href="https://www.linkedin.com/in/sonalikaroy00/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Sonalika Roy">
     </a>
 
