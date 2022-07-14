@@ -4,18 +4,13 @@
 - 🌱 Learning data science and machine learning through various courses and projects. Trying hands on data structures and algorithms (competitive programming) as well.
 - 💼 Worked as a web developer Intern at Legal Aid Center, Lucknow University. Sample: <a href="https://lulac-off.netlify.app/">https://lulac-off.netlify.app/</a>
 - 🎓 Completed Data Science Specialisation on Coursera by IBM and Machine Learning Training by Analytics Vidhya🥇.
-- 💼 Check out my portfolio : https://sonalikaroy13.bitbucket.io/
+
 - 💬 Ask me about anything, you think I can help you out with 😄.
 - 📫 <b> Connect with me: <a href="https://www.linkedin.com/in/sonalikaroy/">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Sonalika Roy">
     </a>
-    <a href="https://t.me/abc_1300">
-        <img src="https://img.shields.io/badge/telegram--_.svg?style=social&logo=telegram" alt="Telegram Sonalika Roy">
-    </a>
-    <a href="mailto:sonalikaroy13@gmail.com">
-        <img src="https://img.shields.io/badge/gmail--_.svg?style=social&logo=gmail" alt="Gmail Sonalika Roy">
-    </a>
-    <a href="https://github.com/sonalikaroy13">
+
+<a href="https://github.com/sonalikaroy13">
         <img src="https://img.shields.io/github/followers/sonalikaroy13.svg?label=GitHub&style=social" alt="GitHub Sonalika Roy">
     </a> 
 
