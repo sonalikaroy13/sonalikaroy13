@@ -1,5 +1,7 @@
 ## Hello there 👋, I'm Sonalika Roy!
 
+- 🎓 Currently pursuing M.Tech(CSE) from IIT(ISM) Dhanbad.
+- 🎓 B.Tech(IT) Graduate from Maharaja Surajmal Institute of Technology(GGSIPU, Delhi).
 - 🔭 I'm a Front end web developer 📲, machine learning and data science 📈 enthusiast from India 🚀.
 - 🌱 Learning data science and machine learning through various courses and projects. Trying hands on data structures and algorithms (competitive programming) as well.
 - 💼 Worked as a web developer Intern at Legal Aid Center, Lucknow University. Sample: <a href="https://lulac-off.netlify.app/">https://lulac-off.netlify.app/</a>
