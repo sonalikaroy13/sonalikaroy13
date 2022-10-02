@@ -3,7 +3,7 @@
 - 🎓 Currently pursuing M.Tech(CSE) from IIT(ISM) Dhanbad.
 - 🎓 B.Tech(IT) Graduate from Maharaja Surajmal Institute of Technology(GGSIPU, Delhi).
 - 🔭 I'm a Front end web developer 📲, machine learning and data science 📈 enthusiast from India 🚀.
-- 🌱 Learning data science and machine learning through various courses and projects. Trying hands on data structures and algorithms (competitive programming) as well.
+- 🌱 Learning data science and machine learning through various courses and projects. Trying hands on competitive programming as well.
 - 💼 Worked as a web developer Intern at Legal Aid Center, Lucknow University. Sample: <a href="https://lulac-off.netlify.app/">https://lulac-off.netlify.app/</a>
 - 🎓 Completed Data Science Specialisation on Coursera by IBM and Machine Learning Training by Analytics Vidhya🥇.
 
@@ -42,7 +42,7 @@
 
 <img height="33px" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png"/>
 
-<img height="38px" width="38px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"/>  
+<img height="35px" width="35px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"/>  
 
 <img height="35px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png?20170128174110" alt="matlab"/>  
 
