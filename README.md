@@ -42,7 +42,9 @@
 
 <img height="33px" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png"/>
 
-<img height="38px" width="38px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>  
+<img height="40px" width="40px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"/>  
+
+<img height="38px" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png?20170128174110" alt="matlab"/>  
 
 ### 📌 Tools: <p align="center">
 
