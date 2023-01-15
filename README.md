@@ -70,9 +70,9 @@
 ![Sonalika's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalikaroy13&layout=compact&card_width=250&card_height=180&theme=tokyonight)
 -->
         
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalikaroy13)](https://github.com/sonalikaroy13/github-readme-streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalikaroy13&layout=compact&card_width=250&card_height=180&theme=tokyonight)](https://github.com/sonalikaroy13/github-readme-streak-stats) 
 
-![](https://github-profile-trophy.vercel.app/?username=sonalikaroy13) 
+![](https://github-profile-trophy.vercel.app/?username=sonalikaroy13&layout=compact&card_width=250&card_height=180&theme=tokyonight) 
 </p>
 <br />
 Thank you for visiting my profile :)
