@@ -38,14 +38,14 @@
         
 <img height="40px" width="40px" src="https://img.icons8.com/color/32/000000/sass.png"/>
 
-<img height="45px" width="45px" src="https://img.icons8.com/ios/100/000000/mysql-logo.png"/>
-
 <img height="33px" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png"/>
 
 <img height="35px" width="35px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"/>  
 
 <img height="35px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png?20170128174110" alt="matlab"/>  
 
+<img height="45px" width="45px" src="https://img.icons8.com/ios/100/000000/mysql-logo.png"/>
+        
 ### 📌 Tools: <p align="center">
 
 <img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/git.png"/>
