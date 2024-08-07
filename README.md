@@ -1,6 +1,6 @@
 ## Hello there 👋, I'm Sonalika Roy!
 
-- 🎓 Currently pursuing M.Tech(CSE) from IIT(ISM) Dhanbad.
+- 🎓 Postgraduate in M.Tech(CSE) from IIT(ISM) Dhanbad.
 - 🎓 B.Tech(IT) Graduate from Maharaja Surajmal Institute of Technology(GGSIPU, Delhi).
 - 🔭 I'm a Front end web developer 📲, machine learning and data science 📈 enthusiast from India 🚀.
 - 🌱 Learning data science and machine learning through various courses and projects. Trying hands on competitive programming as well.
